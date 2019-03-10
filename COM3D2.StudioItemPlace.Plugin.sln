@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COM3D2.StudioItemPlace.Plugin", "COM3D2.StudioItemPlace.Plugin\COM3D2.StudioItemPlace.Plugin.csproj", "{D570F4B8-A46F-4978-85C7-ED1B250657D3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{29467F5A-ACDD-4D77-BF2D-5F4572FB31FD}"
+	ProjectSection(SolutionItems) = preProject
+		COM3D2.StudioItemPlace.Plugin\icn.png = COM3D2.StudioItemPlace.Plugin\icn.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
